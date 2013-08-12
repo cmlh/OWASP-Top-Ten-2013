@@ -1,4 +1,3 @@
-OWASP-Top-Ten-2013
-==================
+# README
 
-Contribution to the 2013 Release
+Please refer to the https://github.com/cmlh/OWASP-Top-Ten-2013/wiki for further information.
